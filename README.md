@@ -1,7 +1,8 @@
 # Simple Pendulum
-## Title: Main
+## JavaScript Files
+### Title: Main
 This a js format for the working of  simple pendulum simulator.
-### Variables:
+#### Variables:
 Tp:Time Period
 Frs:
 Fhz:Frequency in Hertz
@@ -14,7 +15,7 @@ canvas_width:
 canvas_height:
 origin:Starting point of the pendulum
 pendulam:
-### Functions:
+#### Functions:
 anonymous ():The change event handler callback function to change the pendulum rope length by user input.
 
 click start (): The click event handler callback function to start the simulator.
@@ -22,9 +23,9 @@ click start (): The click event handler callback function to start the simulator
 click stop (): The click event handler callback function to stop the simulator.
 
 drawGraph (): 
+
 draw fn:
 
-# Pendulum
 This a js format of simple pendulum simulator.
 ## Title: Pendulum
 ### Class and method:
